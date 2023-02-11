@@ -1,7 +1,8 @@
 import React from "react";
+import { AppLayout } from "./layout/AppLayout";
 
 function App() {
-  return <div className="App">I am placeholder</div>;
+  return <AppLayout>I am placeholder</AppLayout>;
 }
 
 export default App;
